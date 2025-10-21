@@ -822,6 +822,8 @@ class UltimateHackingBotPro:
         self.conn.commit()
 
     def log_advanced_activity(self, user_id, activity_type, target, result):
+    # الكود هنا
+    pass
         """𝐋𝐨𝐠 𝐚𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐮𝐬𝐞𝐫 𝐚𝐜𝐭𝐢𝐯𝐢𝐭𝐲"""
         self.cursor.execute('''
             INSERT INTO activity_log (user_id, activity_type, target, result, timestamp)
