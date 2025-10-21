@@ -33,7 +33,7 @@ pkg update && pkg upgrade
 pkg install python python-pip git nmap -y
 
 # تنزيل البوت
-git clone https://github.com/mohamedqqh/BLACKDEVILM12.git
+git clone https://github.com/mohamedqqh/BLAcKDEVILL.git
 
 # الدخول للمجلد
 cd BLACKDEVILM12
